@@ -1,0 +1,4 @@
+#Thu Apr 21 16:50:12 KST 2022
+base.0=D\:\\workspace\\CodeHouse\\Unity\\Exercise AR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
